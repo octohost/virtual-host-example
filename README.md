@@ -1,4 +1,9 @@
-Static assets for all octohost sites
+Test virtual hosting repository.
 =================
 
-Served from https://ssl.octohost.io
+Live at https://virtual-test.octohost.io
+
+Also responds to:
+
+http://another-virtual-host.octohost.io
+http://virtual-octo-test.froese.org
